@@ -1,0 +1,6 @@
+{
+  "name": "PeerUp",
+  "description": "Peer-to-Peer Micro-Skill & Doubt Bounty Board for college students with skill matching and live 15-minute Jitsi video mentoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
